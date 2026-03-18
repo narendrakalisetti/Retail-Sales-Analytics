@@ -10,7 +10,7 @@
 
 ![Sales Overview](sales_overview.png)
 ![Customer Segments](rfm_segments.png)
-![Basket Analysis](images/basket_analysis.png)
+![Basket Analysis](basket_analysis.png)
 
 ---
 
