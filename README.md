@@ -1,6 +1,6 @@
 # 🛒 Retail Sales & Customer Analytics
 
-![Retail Banner](images/retail_banner.png)
+![Retail Banner](retail_banner.png)
 
 > **Full-stack retail analytics project** covering sales performance, customer segmentation (RFM), basket analysis, churn prediction, and store-level profitability — built for a multi-channel UK retailer.
 
