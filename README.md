@@ -9,7 +9,7 @@
 ## 📊 Power BI Dashboard Preview
 
 ![Sales Overview](sales_overview.png)
-![Customer Segments](images/rfm_segments.png)
+![Customer Segments](rfm_segments.png)
 ![Basket Analysis](images/basket_analysis.png)
 
 ---
